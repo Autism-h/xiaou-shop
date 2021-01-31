@@ -1,0 +1,72 @@
+.goodsDetail .van-nav-bar {
+  background: #ff6040;
+}
+.goodsDetail .van-nav-bar::after {
+  border: none !important;
+}
+.goodsDetail .van-nav-bar__title {
+  color: #fff !important;
+}
+.goodsDetail .van-search {
+  background: #ff6040;
+}
+.goodsDetail .van-search .van-icon {
+  color: #333;
+}
+.goodsDetail .van-icon {
+  color: #fff;
+}
+.goodsDetail .van-tab__text {
+  color: #fff;
+}
+.goodsname {
+  font-size: 0.18rem;
+  display: block;
+  margin-bottom: 0.1rem;
+}
+.con_detail {
+  padding: 0.1rem 0.2rem;
+  margin-bottom: 50px;
+}
+.con_detail .p1 {
+  font-size: 0.3rem;
+  color: #333;
+  margin-top: 0.2rem;
+}
+.con_detail .p2 {
+  font-size: 0.3rem;
+  color: #999;
+  margin: 0.1rem 0 0.2rem;
+}
+.con_detail .text {
+  width: 1.6rem;
+  height: 0.32rem;
+  font-size: 0.18rem;
+  background: #ff6040;
+  color: #fff;
+  text-align: center;
+  line-height: 0.32rem;
+  margin-bottom: 0.2rem;
+}
+.con_detail .text1 {
+  height: 0.4rem;
+  padding-left: 0.1rem;
+  box-sizing: border-box;
+  background: #f2f2f2;
+  text-align: center;
+  color: #8b8b8b;
+  line-height: 0.4rem;
+  margin-bottom: 0.2rem;
+}
+.con_detail .price {
+  color: #ff6040;
+  font-size: 0.45rem;
+}
+.con_detail .price span {
+  font-size: 0.2rem;
+}
+.con_detail .price del {
+  font-size: 0.2rem;
+  color: #999;
+  margin-left: 0.1rem;
+}

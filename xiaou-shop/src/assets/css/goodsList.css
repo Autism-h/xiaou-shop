@@ -1,0 +1,21 @@
+.goodsList .van-nav-bar {
+  background: #ff6040;
+}
+.goodsList .van-nav-bar::after {
+  border: none !important;
+}
+.goodsList .van-nav-bar__title {
+  color: #fff !important;
+}
+.goodsList .van-search {
+  background: #ff6040;
+}
+.goodsList .van-search .van-icon {
+  color: #333;
+}
+.goodsList .van-icon {
+  color: #fff;
+}
+.goodsList .van-tab__text {
+  color: #fff;
+}

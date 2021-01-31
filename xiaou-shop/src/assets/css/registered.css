@@ -1,0 +1,19 @@
+.registered .van-nav-bar {
+  background: #ff6040;
+}
+.registered .van-nav-bar::after {
+  border: none !important;
+}
+.registered .van-nav-bar__title {
+  color: #fff !important;
+}
+.registered .van-icon {
+  color: #fff;
+}
+.registered .van-tab__text {
+  color: #fff;
+}
+.van-button--info {
+  background: #ff6040;
+  border: 1px solid #ff6040;
+}

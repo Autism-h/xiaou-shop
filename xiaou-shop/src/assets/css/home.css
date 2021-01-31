@@ -1,0 +1,158 @@
+.home {
+  background: #ff6040;
+}
+.home .van-nav-bar {
+  background: #ff6040;
+}
+.home .van-nav-bar::after {
+  border: none !important;
+}
+.home .van-nav-bar__title {
+  color: #fff;
+}
+.home .van-nav-bar .van-icon {
+  color: #fff !important;
+}
+.logo_top {
+  display: -webkit-box;
+  padding: 10px 0 !important;
+  justify-content: center;
+}
+.logo_top .van-search {
+  width: 3.4rem;
+  background: none;
+  padding: 0 !important;
+  margin-right: 10px;
+}
+.logo_top .logo {
+  display: flex;
+  width: 1.8rem;
+  height: 0.5rem;
+  margin: 5px 10px;
+}
+.van-icon-shop-o {
+  margin-top: 0.05rem;
+}
+.van-icon-location-o {
+  margin-top: 0.05rem;
+}
+.van-swipe {
+  text-align: center;
+  margin-top: 15px;
+}
+.van-tab__text {
+  color: #fff;
+}
+.banner {
+  width: 6.7rem;
+  height: 3.9rem;
+}
+.con {
+  background: #f2f2f2;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.con .Seconds {
+  display: flex;
+  width: 7.5rem;
+  margin: 0 auto;
+}
+.con .Seconds .con_left {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url('../img/pic/plate/index/kingkong/big.png') no-repeat;
+  background-size: 3.5rem 3.5rem;
+  margin: 0.2rem 0.2rem;
+  padding: 0 0.2rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.con .Seconds .con_left h1 {
+  font-size: 0.3rem;
+  font-weight: bold;
+  color: #85a642;
+  margin: 0.2rem 0;
+}
+.con .Seconds .con_left h1 span {
+  font-size: 0.2rem;
+  color: #666;
+  float: right;
+  line-height: 0.35rem;
+}
+.con .Seconds .con_left p {
+  color: #b3cd7f;
+  font-size: 0.18rem;
+}
+.con .Seconds .con_left .timer {
+  color: #b3cd7f;
+  margin-top: 0.1rem;
+}
+.con .Seconds .con_left .timer span {
+  width: 0.32rem;
+  height: 0.36rem;
+  background: #88a946;
+  display: inline-block;
+  color: #fff;
+  line-height: 0.36rem;
+  font-size: 0.18rem;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 0.03rem;
+}
+.con .Seconds .con_right {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 0.2rem 0.2rem 0.2rem 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.con .Seconds .con_right .con_rightUP {
+  width: 3.5rem;
+  height: 1.7rem;
+  background: url('../img/pic/plate/index/kingkong/small.png');
+  background-size: 3.5rem 1.7rem;
+  padding: 0.2rem;
+  box-sizing: border-box;
+  margin-bottom: 0.1rem;
+}
+.con .Seconds .con_right .con_rightUP h2 {
+  color: #ff5736;
+  font-size: 0.3rem;
+  font-weight: bold;
+  margin-bottom: 0.15rem;
+}
+.con .Seconds .con_right .con_rightUP p {
+  color: #ff5736;
+  font-size: 0.18rem;
+  margin-bottom: 0.15rem;
+}
+.con .Seconds .con_right .con_rightUP span {
+  width: 1.2rem;
+  height: 0.4rem;
+  background: #ff5736;
+  color: #fff;
+  display: block;
+  text-align: center;
+  line-height: 0.4rem;
+  font-size: 0.16rem;
+  border-radius: 0.03rem 0.2rem 0.2rem 0.03rem;
+}
+.con .Seconds .con_right .con_rightDow {
+  background: url('../img/pic/plate/index/kingkong/02.png');
+  background-size: 3.5rem 1.7rem;
+}
+.con .Seconds .con_right .con_rightDow h2,
+.con .Seconds .con_right .con_rightDow p {
+  color: #ab36ff;
+}
+.con .Seconds .con_right .con_rightDow span {
+  background: #ab36ff;
+}
+.con .tab {
+  width: 7.1rem;
+  margin: 0 auto;
+  background: #fff;
+}
+.con .tab .van-tab__text {
+  color: #333;
+}

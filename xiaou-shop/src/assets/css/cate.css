@@ -1,0 +1,20 @@
+.cate_top .van-nav-bar {
+  background: #ff5736;
+}
+.cate_top .van-nav-bar::after {
+  border: none !important;
+}
+.cate_top .van-nav-bar__title {
+  color: #fff !important;
+}
+.cate_top .van-search {
+  background: #ff5736;
+}
+.cate_con {
+  display: flex;
+}
+.cate_con .cate_right p {
+  margin-top: 0.15rem;
+  font-size: 0.3rem;
+  color: #666;
+}

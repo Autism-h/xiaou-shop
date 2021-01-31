@@ -1,0 +1,19 @@
+.login .van-nav-bar {
+  background: #ff6040;
+}
+.login .van-nav-bar::after {
+  border: none !important;
+}
+.login .van-nav-bar__title {
+  color: #fff !important;
+}
+.login .van-icon {
+  color: #fff;
+}
+.login .van-tab__text {
+  color: #fff;
+}
+.van-button--info {
+  background: #ff6040;
+  border: 1px solid #ff6040;
+}

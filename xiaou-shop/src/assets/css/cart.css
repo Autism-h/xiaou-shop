@@ -1,0 +1,24 @@
+.cart .van-nav-bar {
+  background: #ff6040;
+}
+.cart .van-nav-bar::after {
+  border: none !important;
+}
+.cart .van-nav-bar__title {
+  color: #fff !important;
+}
+.cart .van-search {
+  background: #ff6040;
+}
+.cart .van-search .van-icon {
+  color: #333;
+}
+.cart .van-icon {
+  color: #fff;
+}
+.cart .van-tab__text {
+  color: #fff;
+}
+.van-submit-bar {
+  margin-bottom: 50px;
+}
