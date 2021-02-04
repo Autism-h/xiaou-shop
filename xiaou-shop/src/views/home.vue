@@ -67,7 +67,6 @@
             desc="描述信息"
             :title="item.goodsname"
             :thumb="$imgUrl + item.img"
-            thumb-link='/goodsList'
           />
         </van-tab>
         <van-tab title="最新商品" name="b">
